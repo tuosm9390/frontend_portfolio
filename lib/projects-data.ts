@@ -37,7 +37,7 @@ export const projects: Project[] = [
     id: "admin-project",
     title: "미디어 플랫폼 제작예산 관리 시스템",
     description: "React와 Next.js를 사용하여 개발에 참여한 프로젝트입니다.",
-    thumbnail: "/placeholder.svg?height=300&width=600",
+    thumbnail: "/hiblocks_thumbnail.jpg?height=300&width=600",
     technologies: ["React", "Next.js", "Zustand", "MySql", "Spring", "Github"],
     demoUrl: "",
     githubUrl: "",
